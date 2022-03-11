@@ -1,0 +1,21 @@
+.calDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+.input{
+    margin: 13px;
+}
+input{
+    margin: 5px;
+}
+button{
+    color: #a1ab6c;
+    background-color: #3360a3;
+    margin: 5px;
+}
+.valdiv{
+    margin: 15px;
+    color: blue;
+}
